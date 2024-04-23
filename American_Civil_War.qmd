@@ -1,9 +1,21 @@
 ---
-title: "American_Civil_War"
+title: "The American Civil War as Political Event"
+author: "Jonathan Obert"
+format: pdf
+editor: visual
+bibliography: references.bib
 ---
 
 ## Introduction
 
 The American Civil War (ACW) is, without a doubt, the single most significant event in US political history. Beyond its immediate destruction and devastation, the war led to the expansion of citizenship and enfranchisement rights to Black men, the creation of a new constitutional system founded on federal guarantees for due process and the incorporation of constitutional protections, the construction of a new currency and banking system, the entrenchment of the Republican party, the opening of the territorial trans-Mississippi West to political incorporation in the Union, and a dramatically expanded state bureaucracy.
 
-Curiously, while nearly every scholar of US politics would consider the ACW an "event" - in Sewell or Sahlin's terms a "transformation" of the social and cultural structures through which the world is made sensible - we lack a specific account of how war's position
+The fact that such a transformative war could have led to Scholars have long emphasized how war "makes" states and how the emergency powers, tax and extraction efforts, the creation fo new technologies of coercion, and organization building associated with fighting allow for social change. In other words, we have fairly strong meso-level theory about the changes of war, one that scholars of American political development have used to help understand state-making and organizational change in the late nineteenth century US [@benselYankeeLeviathanOrigins1990]. But two levels of this process in the ACW remain  undertheorized. 
+
+First, are the micro-mechanisms whereby fighting on the battlefield, deployment and mobilization of troops, coordinating movement and managing the internal progression of warfighting concatenates into these social transformations. Wartime mobilization of resources and forging of administration are ultimately not isolated processes, but are driven by connections between the temporal and spatial flow of organizing a sustained military effort. Scholars of military history strateic pracitioners typically distinguish between   
+
+Second, are the macro-level
+
+{{< pagebreak >}}
+
+## References
